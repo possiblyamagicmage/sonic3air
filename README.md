@@ -1,3 +1,8 @@
+# Sonic 3 A.I.R. RU
+
+Russian version of Sonic 3 A.I.R.
+
+
 # Sonic 3 A.I.R.
 
 Source code incl. dependencies for "Sonic 3 - Angel Island Revisited", a fan-made remaster of Sonic 3 & Knuckles.
